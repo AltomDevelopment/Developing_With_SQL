@@ -1,5 +1,3 @@
-# SQL Notes
-
 -- LOGICAL ORDER
 
 /*	FROM
